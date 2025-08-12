@@ -14,6 +14,6 @@ To create a transparent, immutable, and accessible platform for reporting and re
 - Support for item images and metadata
 
 ## Contract Address
-`<To be deployed>` 
+ST2SAQWTSR58KSB0BNMZJ5PJBF3N36PV1SABMH03F.lost-and-found-registry
 ![Uploading image.png…]()
 
